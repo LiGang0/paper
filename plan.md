@@ -1,0 +1,25 @@
+# DL
+- skill
+  -  Batch Normalization
+  - Network in Network
+  - Dropout
+- structure   
+  - AlexNet
+  - googleNet
+  - VGG
+- NPL
+  - sequence to sequence
+  - LSTM
+  - GRU
+  - word to vector
+---
+- 要求
+  - 对上述所有论文复现
+	- 使用Pytorch
+	- Better:　封装成类
+	  - config
+	  - model
+	  - etc
+- RL
+  - 吃透David silver的视频，ppt,作业
+  - deep reinforcement learning
