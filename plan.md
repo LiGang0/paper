@@ -23,3 +23,6 @@
 - RL
   - 吃透David silver的视频，ppt,作业
   - deep reinforcement learning
+- 会议与期刊
+  - ACL与NIPS中14-17 Deep Learning
+  - ICLR2018，openReview
